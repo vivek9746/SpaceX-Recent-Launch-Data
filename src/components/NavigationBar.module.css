@@ -1,0 +1,21 @@
+.NavigationBar{
+    z-index: 3;
+    position: absolute;
+    margin: 0px auto;
+    width: 100%;
+    max-width: 100%;
+
+}
+a{
+    text-transform: uppercase;
+    font-family: 'DDINRegular';
+    font-weight: bolder;
+    color:rgb(224, 224, 224);
+    margin-right: 50px;
+}
+a:hover{
+    color:white;
+    text-decoration: none;
+    
+
+}

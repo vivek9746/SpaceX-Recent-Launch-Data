@@ -1,0 +1,29 @@
+.landing{
+    
+    max-height: 100vh;
+    max-width: 100%;
+    background: rgb(0, 0, 0);
+    color:white;
+    margin-top: 0px;
+    overflow: hidden;    
+}
+.VideoBox{
+    float:left;
+}
+.LandingOverlay{
+    position:absolute;
+    float:left;
+        width:100%;
+        min-height:100%;
+        background: linear-gradient(to bottom,     
+    transparent 80%,
+    rgba(0,0,0,0.8)
+  );
+
+      
+}
+@media only screen and (max-width:650px){
+    .LandingOverlay{
+        height: 110%;
+    }
+}

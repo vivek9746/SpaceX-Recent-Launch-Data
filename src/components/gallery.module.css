@@ -1,0 +1,8 @@
+.InnerContainer{
+    max-height: 400px;
+    height: auto;
+    background-color: rgb(0, 0, 0);
+    object-fit: cover;
+    width: 100%;
+    
+}
