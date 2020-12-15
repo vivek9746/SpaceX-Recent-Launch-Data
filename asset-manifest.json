@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/SpaceX-Recent-Launch-Data/static/css/main.e1035070.chunk.css",
-    "main.js": "/SpaceX-Recent-Launch-Data/static/js/main.6b99f871.chunk.js",
-    "main.js.map": "/SpaceX-Recent-Launch-Data/static/js/main.6b99f871.chunk.js.map",
+    "main.css": "/SpaceX-Recent-Launch-Data/static/css/main.fe4f4fcb.chunk.css",
+    "main.js": "/SpaceX-Recent-Launch-Data/static/js/main.10defe39.chunk.js",
+    "main.js.map": "/SpaceX-Recent-Launch-Data/static/js/main.10defe39.chunk.js.map",
     "runtime-main.js": "/SpaceX-Recent-Launch-Data/static/js/runtime-main.40076cb0.js",
     "runtime-main.js.map": "/SpaceX-Recent-Launch-Data/static/js/runtime-main.40076cb0.js.map",
-    "static/js/2.ee91474e.chunk.js": "/SpaceX-Recent-Launch-Data/static/js/2.ee91474e.chunk.js",
-    "static/js/2.ee91474e.chunk.js.map": "/SpaceX-Recent-Launch-Data/static/js/2.ee91474e.chunk.js.map",
+    "static/js/2.bf66acc9.chunk.js": "/SpaceX-Recent-Launch-Data/static/js/2.bf66acc9.chunk.js",
+    "static/js/2.bf66acc9.chunk.js.map": "/SpaceX-Recent-Launch-Data/static/js/2.bf66acc9.chunk.js.map",
     "index.html": "/SpaceX-Recent-Launch-Data/index.html",
-    "precache-manifest.1e5031b9e0c713e86895c8e999c1bbf5.js": "/SpaceX-Recent-Launch-Data/precache-manifest.1e5031b9e0c713e86895c8e999c1bbf5.js",
+    "precache-manifest.dc77d77718178043a34e4ea7ac295a30.js": "/SpaceX-Recent-Launch-Data/precache-manifest.dc77d77718178043a34e4ea7ac295a30.js",
     "service-worker.js": "/SpaceX-Recent-Launch-Data/service-worker.js",
-    "static/css/main.e1035070.chunk.css.map": "/SpaceX-Recent-Launch-Data/static/css/main.e1035070.chunk.css.map",
-    "static/js/2.ee91474e.chunk.js.LICENSE.txt": "/SpaceX-Recent-Launch-Data/static/js/2.ee91474e.chunk.js.LICENSE.txt",
-    "static/media/LandingVideo.mp4": "/SpaceX-Recent-Launch-Data/static/media/LandingVideo.70cec231.mp4"
+    "static/css/main.fe4f4fcb.chunk.css.map": "/SpaceX-Recent-Launch-Data/static/css/main.fe4f4fcb.chunk.css.map",
+    "static/js/2.bf66acc9.chunk.js.LICENSE.txt": "/SpaceX-Recent-Launch-Data/static/js/2.bf66acc9.chunk.js.LICENSE.txt",
+    "static/media/LandingVideo.mp4": "/SpaceX-Recent-Launch-Data/static/media/LandingVideo.70cec231.mp4",
+    "static/media/spacex-logo.png": "/SpaceX-Recent-Launch-Data/static/media/spacex-logo.e96bf509.png"
   },
   "entrypoints": [
     "static/js/runtime-main.40076cb0.js",
-    "static/js/2.ee91474e.chunk.js",
-    "static/css/main.e1035070.chunk.css",
-    "static/js/main.6b99f871.chunk.js"
+    "static/js/2.bf66acc9.chunk.js",
+    "static/css/main.fe4f4fcb.chunk.css",
+    "static/js/main.10defe39.chunk.js"
   ]
 }
