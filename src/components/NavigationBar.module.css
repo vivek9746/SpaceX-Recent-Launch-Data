@@ -4,7 +4,27 @@
     margin: 0px auto;
     width: 100%;
     max-width: 100%;
-
+    flex-wrap: wrap;
+    
+}
+.Menu{
+    display: block;
+}
+img{
+object-fit: cover;
+height: auto;
+max-width: 200px;
+position: relative;
+}
+.hamburger{
+    background-color: transparent;
+    color: white;
+    border: 0px;
+    display: none;
+}
+.hamburger:focus{
+    outline: transparent;
+    
 }
 a{
     text-transform: uppercase;
@@ -12,10 +32,29 @@ a{
     font-weight: bolder;
     color:rgb(224, 224, 224);
     margin-right: 50px;
+    font-size: 12pt;
 }
 a:hover{
     color:white;
     text-decoration: none;
     
+}
 
+
+@media screen and (max-width:650px){
+    
+    a{
+        font-size: 8pt;
+    }
+    .NavUl{
+        display: none;
+    }
+    img{
+        width: 100px;
+    }
+    .hamburger{
+        position: absolute;
+        margin-left: 90%;
+        display: block;
+    }
 }
